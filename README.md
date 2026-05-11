@@ -18,7 +18,6 @@ Expected Behavior (tested with ArgoCD 3.3.9 and 3.2.5)
 
 ![workingdemo](https://cdn.zappy.app/f859b7b8c8cd202a8752eb8758ca61b1.gif)
 
-
 Broken Behavior (tested with ArgoCD 3.4.1)
 
 ![brokendemo](https://cdn.zappy.app/c8cae15b965c5920a92ae570efae8754.gif)
